@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="10174" systemVersion="15E65" minimumToolsVersion="Xcode 7.0">
+    <entity name="Station" representedClassName=".Station" syncable="YES">
+        <attribute name="available" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="lat" optional="YES" attributeType="Double" defaultValueString="0.0" syncable="YES"/>
+        <attribute name="lng" optional="YES" attributeType="Double" defaultValueString="0" syncable="YES"/>
+        <attribute name="locationCn" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="locationEn" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="nextToken" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="previousToken" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="titleCn" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="titleEn" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Station" positionX="-45" positionY="0" width="128" height="180"/>
+    </elements>
+</model>

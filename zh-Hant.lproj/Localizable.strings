@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  YouBike
+
+  Created by Sarah on 5/13/16.
+  Copyright © 2016 AppWorks School Sarah Lee. All rights reserved.
+*/
+LoginWithFacebook = "以 Facebook 登入";
+FacebookPage = "Facebook 頁面";
+viewMap = "看地圖";
+numLeftLabel = "剩";
+numRightLabel = "台";

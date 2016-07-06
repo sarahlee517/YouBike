@@ -1,0 +1,36 @@
+
+/* Class = "UISegmentedControl"; 78S-nw-vRD.segmentTitles[0] = "Standard"; ObjectID = "78S-nw-vRD"; */
+"78S-nw-vRD.segmentTitles[0]" = "Standard";
+
+/* Class = "UISegmentedControl"; 78S-nw-vRD.segmentTitles[1] = "Satellite"; ObjectID = "78S-nw-vRD"; */
+"78S-nw-vRD.segmentTitles[1]" = "Satellite";
+
+/* Class = "UISegmentedControl"; 78S-nw-vRD.segmentTitles[2] = "Hybrid"; ObjectID = "78S-nw-vRD"; */
+"78S-nw-vRD.segmentTitles[2]" = "Hybrid";
+
+/* Class = "UILabel"; text = "YouBike"; ObjectID = "7Di-4r-aNw"; */
+"7Di-4r-aNw.text" = "YouBike";
+
+/* Class = "UINavigationItem"; title = "YouBike"; ObjectID = "BUx-hc-o0G"; */
+"BUx-hc-o0G.title" = "YouBike";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Kau-jr-wFH"; */
+"Kau-jr-wFH.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "MHm-6h-CGh"; */
+"MHm-6h-CGh.normalTitle" = "Button";
+
+/* Class = "UITabBarItem"; title = "Profile"; ObjectID = "hWu-8T-fj9"; */
+"hWu-8T-fj9.title" = "個人資訊";
+
+/* Class = "UITabBarItem"; title = "Profile"; ObjectID = "koZ-H5-qNq"; */
+"koZ-H5-qNq.title" = "Profile";
+
+/* Class = "UIBarButtonItem"; title = "Logout"; ObjectID = "nMf-HS-66L"; */
+"nMf-HS-66L.title" = "登出";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "tgt-w5-zq1"; */
+"tgt-w5-zq1.text" = "Label";
+
+/* Class = "UITabBarItem"; title = "Stations"; ObjectID = "x7W-Wt-TPe"; */
+"x7W-Wt-TPe.title" = "車站資訊";
